@@ -1,0 +1,3178 @@
+{
+  "d" : {
+    "results" : [
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "956.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1000",
+        "text" : "Notebook Basic 15",
+        "text_upper" : "NOTEBOOK BASIC 15",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "2498.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1001",
+        "text" : "Notebook Basic 17",
+        "text_upper" : "NOTEBOOK BASIC 17",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "3140.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1002",
+        "text" : "Notebook Basic 18",
+        "text_upper" : "NOTEBOOK BASIC 18",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "3300.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1003",
+        "text" : "Notebook Basic 19",
+        "text_upper" : "NOTEBOOK BASIC 19",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "897.00",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1007",
+        "text" : "ITelO Vault",
+        "text_upper" : "ITELO VAULT",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "3998.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1010",
+        "text" : "Notebook Professional 15",
+        "text_upper" : "NOTEBOOK PROFESSIONAL 15",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "459800",
+        "currency_code" : "JPY",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1011",
+        "text" : "Notebook Professional 17",
+        "text_upper" : "NOTEBOOK PROFESSIONAL 17",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='80')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='80')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "80",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "460.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1030",
+        "text" : "Ergo Screen E-I",
+        "text_upper" : "ERGO SCREEN E-I",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='80')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='90')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='90')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "90",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "855.00",
+        "currency_code" : "GBP",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1031",
+        "text" : "Ergo Screen E-II",
+        "text_upper" : "ERGO SCREEN E-II",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='90')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='100')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='100')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000000",
+        "so_item_pos" : "100",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "1035.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1032",
+        "text" : "Ergo Screen E-III",
+        "text_upper" : "ERGO SCREEN E-III",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='100')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "460.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1030",
+        "text" : "Ergo Screen E-I",
+        "text_upper" : "ERGO SCREEN E-I",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "285.00",
+        "currency_code" : "GBP",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1031",
+        "text" : "Ergo Screen E-II",
+        "text_upper" : "ERGO SCREEN E-II",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "690.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1032",
+        "text" : "Ergo Screen E-III",
+        "text_upper" : "ERGO SCREEN E-III",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "798.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1035",
+        "text" : "Flat Basic",
+        "text_upper" : "FLAT BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "860.00",
+        "currency_code" : "CAD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1036",
+        "text" : "Flat Future",
+        "text_upper" : "FLAT FUTURE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "2460.00",
+        "currency_code" : "MXN",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1037",
+        "text" : "Flat XL",
+        "text_upper" : "FLAT XL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "1377.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1020",
+        "text" : "ITelO Vault Net",
+        "text_upper" : "ITELO VAULT NET",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='80')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='80')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "80",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "447.00",
+        "currency_code" : "MXN",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1021",
+        "text" : "ITelO Vault SAT",
+        "text_upper" : "ITELO VAULT SAT",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='80')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='90')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='90')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "90",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "3358.00",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1022",
+        "text" : "Comfort Easy",
+        "text_upper" : "COMFORT EASY",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='90')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='100')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='100')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000001",
+        "so_item_pos" : "100",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "1536.00",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1023",
+        "text" : "Comfort Senior",
+        "text_upper" : "COMFORT SENIOR",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='100')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "2490.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1040",
+        "text" : "Laser Professional Eco",
+        "text_upper" : "LASER PROFESSIONAL ECO",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "490.00",
+        "currency_code" : "ARS",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1041",
+        "text" : "Laser Basic",
+        "text_upper" : "LASER BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "698.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1042",
+        "text" : "Laser Allround",
+        "text_upper" : "LASER ALLROUND",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "278.00",
+        "currency_code" : "RUB",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1050",
+        "text" : "Ultra Jet Super Color",
+        "text_upper" : "ULTRA JET SUPER COLOR",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "99.00",
+        "currency_code" : "USD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1051",
+        "text" : "Ultra Jet Mobile",
+        "text_upper" : "ULTRA JET MOBILE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "340.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1052",
+        "text" : "Ultra Jet Super Highspeed",
+        "text_upper" : "ULTRA JET SUPER HIGHSPEED",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "99.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1055",
+        "text" : "Multi Print",
+        "text_upper" : "MULTI PRINT",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='80')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='80')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000002",
+        "so_item_pos" : "80",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "23800",
+        "currency_code" : "JPY",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1056",
+        "text" : "Multi Color",
+        "text_upper" : "MULTI COLOR",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='80')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000003",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "419.97",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1073",
+        "text" : "Hurricane GX/LN",
+        "text_upper" : "HURRICANE GX/LN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000003",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "387.00",
+        "currency_code" : "INR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1080",
+        "text" : "Photo Scan",
+        "text_upper" : "PHOTO SCAN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000003",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "267.00",
+        "currency_code" : "PLN",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1081",
+        "text" : "Power Scan",
+        "text_upper" : "POWER SCAN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000003",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "169.00",
+        "currency_code" : "ARS",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1082",
+        "text" : "Jet Scan Professional",
+        "text_upper" : "JET SCAN PROFESSIONAL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000003",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "189.00",
+        "currency_code" : "CNY",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1083",
+        "text" : "Jet Scan Professional",
+        "text_upper" : "JET SCAN PROFESSIONAL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000004",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "179.80",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1100",
+        "text" : "Smart Office",
+        "text_upper" : "SMART OFFICE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000004",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "79.90",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1101",
+        "text" : "Smart Design",
+        "text_upper" : "SMART DESIGN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000004",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "138.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1102",
+        "text" : "Smart Network",
+        "text_upper" : "SMART NETWORK",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000004",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "77.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1103",
+        "text" : "Smart Multimedia",
+        "text_upper" : "SMART MULTIMEDIA",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000004",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "16500",
+        "currency_code" : "JPY",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1104",
+        "text" : "Smart Games",
+        "text_upper" : "SMART GAMES",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "5000.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1500",
+        "text" : "Server Basic",
+        "text_upper" : "SERVER BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "3000000",
+        "currency_code" : "JPY",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1501",
+        "text" : "Server Professional",
+        "text_upper" : "SERVER PROFESSIONAL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "50000.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1502",
+        "text" : "Server Power Pro",
+        "text_upper" : "SERVER POWER PRO",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "26.70",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1110",
+        "text" : "PC Lock",
+        "text_upper" : "PC LOCK",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "13.80",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1111",
+        "text" : "Notebook Lock",
+        "text_upper" : "NOTEBOOK LOCK",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "78.00",
+        "currency_code" : "GBP",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1112",
+        "text" : "Web cam reality",
+        "text_upper" : "WEB CAM REALITY",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000005",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "6.90",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1113",
+        "text" : "Screen clean",
+        "text_upper" : "SCREEN CLEAN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000006",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Talpa",
+        "company_name_upper" : "TALPA",
+        "country" : "DE",
+        "net_amount" : "87.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1105",
+        "text" : "Smart Internet Antivirus",
+        "text_upper" : "SMART INTERNET ANTIVIRUS",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000006",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Talpa",
+        "company_name_upper" : "TALPA",
+        "country" : "DE",
+        "net_amount" : "34.00",
+        "currency_code" : "MXN",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1106",
+        "text" : "Smart Firewall",
+        "text_upper" : "SMART FIREWALL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000006",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Talpa",
+        "company_name_upper" : "TALPA",
+        "country" : "DE",
+        "net_amount" : "89.70",
+        "currency_code" : "ARS",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1107",
+        "text" : "Smart Money",
+        "text_upper" : "SMART MONEY",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "460.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1030",
+        "text" : "Ergo Screen E-I",
+        "text_upper" : "ERGO SCREEN E-I",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "855.00",
+        "currency_code" : "GBP",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1031",
+        "text" : "Ergo Screen E-II",
+        "text_upper" : "ERGO SCREEN E-II",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "345.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1032",
+        "text" : "Ergo Screen E-III",
+        "text_upper" : "ERGO SCREEN E-III",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "798.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1035",
+        "text" : "Flat Basic",
+        "text_upper" : "FLAT BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "860.00",
+        "currency_code" : "CAD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1036",
+        "text" : "Flat Future",
+        "text_upper" : "FLAT FUTURE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "1230.00",
+        "currency_code" : "MXN",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1037",
+        "text" : "Flat XL",
+        "text_upper" : "FLAT XL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "2868.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1000",
+        "text" : "Notebook Basic 15",
+        "text_upper" : "NOTEBOOK BASIC 15",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='80')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='80')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000007",
+        "so_item_pos" : "80",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "1249.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1001",
+        "text" : "Notebook Basic 17",
+        "text_upper" : "NOTEBOOK BASIC 17",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='80')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000008",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "18.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1060",
+        "text" : "Cordless Mouse",
+        "text_upper" : "CORDLESS MOUSE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000008",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "14.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1061",
+        "text" : "Speed Mouse",
+        "text_upper" : "SPEED MOUSE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000008",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "22.00",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1062",
+        "text" : "Track Mouse",
+        "text_upper" : "TRACK MOUSE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000008",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "42.00",
+        "currency_code" : "BRL",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1063",
+        "text" : "Ergonomic Keyboard",
+        "text_upper" : "ERGONOMIC KEYBOARD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000008",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "16.00",
+        "currency_code" : "CAD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1064",
+        "text" : "Internet Keyboard",
+        "text_upper" : "INTERNET KEYBOARD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000008",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "52.00",
+        "currency_code" : "CHF",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1065",
+        "text" : "Media Keyboard",
+        "text_upper" : "MEDIA KEYBOARD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000009",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "1660.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1040",
+        "text" : "Laser Professional Eco",
+        "text_upper" : "LASER PROFESSIONAL ECO",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000009",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "980.00",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1041",
+        "text" : "Laser Basic",
+        "text_upper" : "LASER BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000009",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "SAP",
+        "company_name_upper" : "SAP",
+        "country" : "DE",
+        "net_amount" : "698.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1042",
+        "text" : "Laser Allround",
+        "text_upper" : "LASER ALLROUND",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "141.80",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1070",
+        "text" : "Proctra X",
+        "text_upper" : "PROCTRA X",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "163.40",
+        "currency_code" : "ZAR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1071",
+        "text" : "Gladiator MX",
+        "text_upper" : "GLADIATOR MX",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "303.60",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1072",
+        "text" : "Hurricane GX",
+        "text_upper" : "HURRICANE GX",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "13.98",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1066",
+        "text" : "Mousepad",
+        "text_upper" : "MOUSEPAD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "17.98",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1067",
+        "text" : "Ergo Mousepad",
+        "text_upper" : "ERGO MOUSEPAD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "12.99",
+        "currency_code" : "USD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1068",
+        "text" : "Designer Mousepad",
+        "text_upper" : "DESIGNER MOUSEPAD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000010",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "4200",
+        "currency_code" : "JPY",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1069",
+        "text" : "Universal card reader",
+        "text_upper" : "UNIVERSAL CARD READER",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000011",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "5500",
+        "currency_code" : "JPY",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1104",
+        "text" : "Smart Games",
+        "text_upper" : "SMART GAMES",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000011",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "87.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1105",
+        "text" : "Smart Internet Antivirus",
+        "text_upper" : "SMART INTERNET ANTIVIRUS",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000011",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "102.00",
+        "currency_code" : "MXN",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1106",
+        "text" : "Smart Firewall",
+        "text_upper" : "SMART FIREWALL",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000011",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "29.90",
+        "currency_code" : "ARS",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1107",
+        "text" : "Smart Money",
+        "text_upper" : "SMART MONEY",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "1912.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1000",
+        "text" : "Notebook Basic 15",
+        "text_upper" : "NOTEBOOK BASIC 15",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "2498.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1001",
+        "text" : "Notebook Basic 17",
+        "text_upper" : "NOTEBOOK BASIC 17",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "3140.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1002",
+        "text" : "Notebook Basic 18",
+        "text_upper" : "NOTEBOOK BASIC 18",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "4950.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1003",
+        "text" : "Notebook Basic 19",
+        "text_upper" : "NOTEBOOK BASIC 19",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "598.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1007",
+        "text" : "ITelO Vault",
+        "text_upper" : "ITELO VAULT",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "3998.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1010",
+        "text" : "Notebook Professional 15",
+        "text_upper" : "NOTEBOOK PROFESSIONAL 15",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "229900",
+        "currency_code" : "JPY",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1011",
+        "text" : "Notebook Professional 17",
+        "text_upper" : "NOTEBOOK PROFESSIONAL 17",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='80')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='80')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "80",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "918.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1020",
+        "text" : "ITelO Vault Net",
+        "text_upper" : "ITELO VAULT NET",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='80')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='90')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='90')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000012",
+        "so_item_pos" : "90",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "447.00",
+        "currency_code" : "MXN",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1021",
+        "text" : "ITelO Vault SAT",
+        "text_upper" : "ITELO VAULT SAT",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='90')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "1679.00",
+        "currency_code" : "ARS",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1022",
+        "text" : "Comfort Easy",
+        "text_upper" : "COMFORT EASY",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "1536.00",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1023",
+        "text" : "Comfort Senior",
+        "text_upper" : "COMFORT SENIOR",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "460.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1030",
+        "text" : "Ergo Screen E-I",
+        "text_upper" : "ERGO SCREEN E-I",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "570.00",
+        "currency_code" : "GBP",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1031",
+        "text" : "Ergo Screen E-II",
+        "text_upper" : "ERGO SCREEN E-II",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "1035.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1032",
+        "text" : "Ergo Screen E-III",
+        "text_upper" : "ERGO SCREEN E-III",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "798.00",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1035",
+        "text" : "Flat Basic",
+        "text_upper" : "FLAT BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000013",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "860.00",
+        "currency_code" : "CAD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1036",
+        "text" : "Flat Future",
+        "text_upper" : "FLAT FUTURE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000014",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "830.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1040",
+        "text" : "Laser Professional Eco",
+        "text_upper" : "LASER PROFESSIONAL ECO",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000014",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "980.00",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1041",
+        "text" : "Laser Basic",
+        "text_upper" : "LASER BASIC",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000014",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "349.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1042",
+        "text" : "Laser Allround",
+        "text_upper" : "LASER ALLROUND",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000014",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "139.00",
+        "currency_code" : "RUB",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1050",
+        "text" : "Ultra Jet Super Color",
+        "text_upper" : "ULTRA JET SUPER COLOR",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000014",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "99.00",
+        "currency_code" : "USD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1051",
+        "text" : "Ultra Jet Mobile",
+        "text_upper" : "ULTRA JET MOBILE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000014",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Asia High tech",
+        "company_name_upper" : "ASIA HIGH TECH",
+        "country" : "JP",
+        "net_amount" : "510.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1052",
+        "text" : "Ultra Jet Super Highspeed",
+        "text_upper" : "ULTRA JET SUPER HIGHSPEED",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "297.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1055",
+        "text" : "Multi Print",
+        "text_upper" : "MULTI PRINT",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "23800",
+        "currency_code" : "JPY",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1056",
+        "text" : "Multi Color",
+        "text_upper" : "MULTI COLOR",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "9.00",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1060",
+        "text" : "Cordless Mouse",
+        "text_upper" : "CORDLESS MOUSE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "21.00",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1061",
+        "text" : "Speed Mouse",
+        "text_upper" : "SPEED MOUSE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "22.00",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1062",
+        "text" : "Track Mouse",
+        "text_upper" : "TRACK MOUSE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "14.00",
+        "currency_code" : "BRL",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1063",
+        "text" : "Ergonomic Keyboard",
+        "text_upper" : "ERGONOMIC KEYBOARD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='60')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='70')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='70')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "70",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "32.00",
+        "currency_code" : "CAD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1064",
+        "text" : "Internet Keyboard",
+        "text_upper" : "INTERNET KEYBOARD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='70')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='80')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='80')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "80",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "78.00",
+        "currency_code" : "CHF",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1065",
+        "text" : "Media Keyboard",
+        "text_upper" : "MEDIA KEYBOARD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='80')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='90')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='90')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000015",
+        "so_item_pos" : "90",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "AVANTEL",
+        "company_name_upper" : "AVANTEL",
+        "country" : "MX",
+        "net_amount" : "13.98",
+        "currency_code" : "USD",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1066",
+        "text" : "Mousepad",
+        "text_upper" : "MOUSEPAD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='90')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000016",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "17.98",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1067",
+        "text" : "Ergo Mousepad",
+        "text_upper" : "ERGO MOUSEPAD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000016",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "12.99",
+        "currency_code" : "USD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1068",
+        "text" : "Designer Mousepad",
+        "text_upper" : "DESIGNER MOUSEPAD",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000016",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Panorama Studios",
+        "company_name_upper" : "PANORAMA STUDIOS",
+        "country" : "US",
+        "net_amount" : "2800",
+        "currency_code" : "JPY",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1069",
+        "text" : "Universal card reader",
+        "text_upper" : "UNIVERSAL CARD READER",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000017",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "89.90",
+        "currency_code" : "USD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1100",
+        "text" : "Smart Office",
+        "text_upper" : "SMART OFFICE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000017",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "TECUM",
+        "company_name_upper" : "TECUM",
+        "country" : "DE",
+        "net_amount" : "59.80",
+        "currency_code" : "ARS",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1107",
+        "text" : "Smart Money",
+        "text_upper" : "SMART MONEY",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000018",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "269.70",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1100",
+        "text" : "Smart Office",
+        "text_upper" : "SMART OFFICE",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000018",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "239.70",
+        "currency_code" : "EUR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1101",
+        "text" : "Smart Design",
+        "text_upper" : "SMART DESIGN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000018",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "69.00",
+        "currency_code" : "USD",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1102",
+        "text" : "Smart Network",
+        "text_upper" : "SMART NETWORK",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000018",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "DelBont Industries",
+        "company_name_upper" : "DELBONT INDUSTRIES",
+        "country" : "US",
+        "net_amount" : "154.00",
+        "currency_code" : "EUR",
+        "quantity" : "2",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1103",
+        "text" : "Smart Multimedia",
+        "text_upper" : "SMART MULTIMEDIA",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='10')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='10')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000019",
+        "so_item_pos" : "10",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "212.70",
+        "currency_code" : "ARS",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1070",
+        "text" : "Proctra X",
+        "text_upper" : "PROCTRA X",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='10')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='20')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='20')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000019",
+        "so_item_pos" : "20",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "81.70",
+        "currency_code" : "ZAR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1071",
+        "text" : "Gladiator MX",
+        "text_upper" : "GLADIATOR MX",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='20')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='30')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='30')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000019",
+        "so_item_pos" : "30",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "303.60",
+        "currency_code" : "USD",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1072",
+        "text" : "Hurricane GX",
+        "text_upper" : "HURRICANE GX",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='30')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='40')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='40')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000019",
+        "so_item_pos" : "40",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "139.99",
+        "currency_code" : "EUR",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1073",
+        "text" : "Hurricane GX/LN",
+        "text_upper" : "HURRICANE GX/LN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='40')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='50')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='50')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000019",
+        "so_item_pos" : "50",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "387.00",
+        "currency_code" : "INR",
+        "quantity" : "3",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1080",
+        "text" : "Photo Scan",
+        "text_upper" : "PHOTO SCAN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='50')/to_Employees"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='60')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='60')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType"
+        },
+        "so_id" : "500000019",
+        "so_item_pos" : "60",
+        "created_by" : "400000038",
+        "created_at" : "\/Date(1598796000000+0000)\/",
+        "company_name" : "Telecomunicaciones Star",
+        "company_name_upper" : "TELECOMUNICACIONES STAR",
+        "country" : "AR",
+        "net_amount" : "89.00",
+        "currency_code" : "PLN",
+        "quantity" : "1",
+        "quantity_unit" : "EA",
+        "product_id" : "HT-1081",
+        "text" : "Power Scan",
+        "text_upper" : "POWER SCAN",
+        "to_Employees" : {
+          "__deferred" : {
+            "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='60')/to_Employees"
+          }
+        }
+      }
+    ]
+  }
+}

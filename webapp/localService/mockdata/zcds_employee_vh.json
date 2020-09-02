@@ -1,0 +1,396 @@
+{
+  "d" : {
+    "results" : [
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000000')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000000')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000000",
+        "first_name" : "Sally",
+        "last_name" : "Spring"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000001')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000001')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000001",
+        "first_name" : "Susan",
+        "last_name" : "Summer"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000002')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000002')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000002",
+        "first_name" : "Franco",
+        "last_name" : "Fall"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000003')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000003')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000003",
+        "first_name" : "Walter",
+        "last_name" : "Winter"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000004')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000004')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000004",
+        "first_name" : "Maria",
+        "last_name" : "Hicks"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000005')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000005')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000005",
+        "first_name" : "John",
+        "last_name" : "Dash"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000006')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000006')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000006",
+        "first_name" : "Viola",
+        "last_name" : "Gains"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000007')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000007')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000007",
+        "first_name" : "Randy",
+        "last_name" : "Gordon"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000008')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000008')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000008",
+        "first_name" : "Paul",
+        "last_name" : "Burke"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000009')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000009')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000009",
+        "first_name" : "Michael",
+        "last_name" : "Miller"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000010')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000010')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000010",
+        "first_name" : "John",
+        "last_name" : "Nicols"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000011')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000011')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000011",
+        "first_name" : "John",
+        "last_name" : "Smith"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000012')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000012')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000012",
+        "first_name" : "Joanne",
+        "last_name" : "Rush"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000013')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000013')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000013",
+        "first_name" : "Sue",
+        "last_name" : "Bay"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000014')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000014')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000014",
+        "first_name" : "James",
+        "last_name" : "Field"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000015')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000015')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000015",
+        "first_name" : "Hermann",
+        "last_name" : "Hecker"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000016')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000016')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000016",
+        "first_name" : "Rudolf",
+        "last_name" : "Platte"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000017')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000017')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000017",
+        "first_name" : "Al",
+        "last_name" : "Wallace"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000018')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000018')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000018",
+        "first_name" : "Jonathan",
+        "last_name" : "East"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000019')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000019')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000019",
+        "first_name" : "James",
+        "last_name" : "Smith"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000020')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000020')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000020",
+        "first_name" : "Megan",
+        "last_name" : "Wang"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000021')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000021')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000021",
+        "first_name" : "Anna",
+        "last_name" : "Lerch"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000022')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000022')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000022",
+        "first_name" : "Clark",
+        "last_name" : "Kent"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000023')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000023')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000023",
+        "first_name" : "Catherine",
+        "last_name" : "Jones"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000024')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000024')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000024",
+        "first_name" : "Peter",
+        "last_name" : "Douglas"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000025')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000025')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000025",
+        "first_name" : "Frank",
+        "last_name" : "Brown"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000026')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000026')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000026",
+        "first_name" : "Barbara",
+        "last_name" : "Ingalls"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000027')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000027')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000027",
+        "first_name" : "Peter",
+        "last_name" : "Fuchs"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000028')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000028')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000028",
+        "first_name" : "Mary",
+        "last_name" : "Watson"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000029')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000029')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000029",
+        "first_name" : "Karl",
+        "last_name" : "Kessler"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000030')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000030')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000030",
+        "first_name" : "Nora",
+        "last_name" : "Dwyer"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000031')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000031')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000031",
+        "first_name" : "Richard",
+        "last_name" : "Fisher"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000032')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000032')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000032",
+        "first_name" : "Carol",
+        "last_name" : "Aranda"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000033')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000033')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000033",
+        "first_name" : "Nam",
+        "last_name" : "Kim"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000034')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000034')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000034",
+        "first_name" : "Felicity",
+        "last_name" : "Chang"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000035')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000035')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000035",
+        "first_name" : "Crispin",
+        "last_name" : "Perez"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000036')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000036')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000036",
+        "first_name" : "Yoshihiro",
+        "last_name" : "Kimura"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000037')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000037')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000037",
+        "first_name" : "Christopher",
+        "last_name" : "Ngo"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000038')",
+          "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_employee_vh('400000038')",
+          "type" : "ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+        },
+        "employee_id" : "400000038",
+        "first_name" : "EPM",
+        "last_name" : "User"
+      }
+    ]
+  }
+}

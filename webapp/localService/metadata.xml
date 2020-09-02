@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:sap="http://www.sap.com/Protocols/SAPData">
+    <edmx:Reference
+        Uri="http://oildfespas01.sydapp.net:8000/sap/opu/odata/IWFND/CATALOGSERVICE;v=2/Vocabularies(TechnicalName='%2FIWBEP%2FVOC_COMMON',Version='0001',SAP__Origin='S4CORE')/$value"
+        xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx">
+        <edmx:Include Namespace="com.sap.vocabularies.Common.v1" Alias="Common" />
+    </edmx:Reference>
+    <edmx:DataServices m:DataServiceVersion="2.0">
+        <Schema Namespace="ZCDS_CONS_VIEW_SOITEMS_CDS" xml:lang="en" sap:schema-version="1"
+            xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+            <EntityType Name="zcds_cons_view_soitemsType" sap:label="Sales Order Consumption View"
+                sap:content-version="1">
+                <Key>
+                    <PropertyRef Name="so_id" />
+                    <PropertyRef Name="so_item_pos" />
+                </Key>
+                <Property Name="so_id" Type="Edm.String" Nullable="false" MaxLength="10" sap:display-format="UpperCase"
+                    sap:label="Sales Order ID" sap:quickinfo="EPM: Sales Order Number" />
+                <Property Name="so_item_pos" Type="Edm.String" Nullable="false" MaxLength="10"
+                    sap:display-format="UpperCase" sap:label="Item Position"
+                    sap:quickinfo="EPM: Sales Order Item Position" />
+                <Property Name="created_by" Type="Edm.String" MaxLength="10" sap:display-format="UpperCase"
+                    sap:label="Employee ID" sap:quickinfo="EPM: Employee ID" sap:value-list="standard" />
+                <Property Name="created_at" Type="Edm.DateTimeOffset" Precision="7" sap:label="Created At"
+                    sap:quickinfo="EPM: Created At" />
+                <Property Name="company_name" Type="Edm.String" MaxLength="80" sap:label="Company Name"
+                    sap:quickinfo="EPM: Company Name" />
+                <Property Name="company_name_upper" Type="Edm.String" MaxLength="80" sap:display-format="UpperCase" />
+                <Property Name="country" Type="Edm.String" MaxLength="3" sap:display-format="UpperCase"
+                    sap:label="Country" sap:quickinfo="EPM: Country Code" />
+                <Property Name="net_amount" Type="Edm.Decimal" Precision="16" Scale="3" sap:unit="currency_code"
+                    sap:label="Total Net Amount" sap:quickinfo="EPM: Total Net Amount" />
+                <Property Name="currency_code" Type="Edm.String" MaxLength="5" sap:label="ISO Currency Code"
+                    sap:quickinfo="EPM: Currency Code" sap:semantics="currency-code" />
+                <Property Name="quantity" Type="Edm.Decimal" Precision="13" Scale="3" sap:unit="quantity_unit"
+                    sap:label="Quantity" sap:quickinfo="EPM: Quantity" />
+                <Property Name="quantity_unit" Type="Edm.String" MaxLength="3" sap:label="Unit of Measure"
+                    sap:quickinfo="EPM: Quantity Unit" sap:semantics="unit-of-measure" />
+                <Property Name="product_id" Type="Edm.String" MaxLength="10" sap:display-format="UpperCase"
+                    sap:label="Product ID" sap:quickinfo="EPM: Product ID" />
+                <Property Name="text" Type="Edm.String" MaxLength="255" sap:label="Description"
+                    sap:quickinfo="EPM: Text field for names and descriptions" />
+                <Property Name="text_upper" Type="Edm.String" MaxLength="255" sap:display-format="UpperCase" />
+                <NavigationProperty Name="to_Employees"
+                    Relationship="ZCDS_CONS_VIEW_SOITEMS_CDS.assoc_3448B816D125B8CA2AA03792F92D6ED8"
+                    FromRole="FromRole_assoc_3448B816D125B8CA2AA03792F92D6ED8"
+                    ToRole="ToRole_assoc_3448B816D125B8CA2AA03792F92D6ED8" />
+            </EntityType>
+            <EntityType Name="zcds_employee_vhType" sap:label="Value Help for Employees" sap:content-version="1">
+                <Key>
+                    <PropertyRef Name="employee_id" />
+                </Key>
+                <Property Name="employee_id" Type="Edm.String" Nullable="false" MaxLength="10"
+                    sap:display-format="UpperCase" sap:label="Employee ID" sap:quickinfo="EPM: Employee ID" />
+                <Property Name="first_name" Type="Edm.String" MaxLength="40" sap:label="First Name"
+                    sap:quickinfo="EPM: First Name" />
+                <Property Name="last_name" Type="Edm.String" MaxLength="40" sap:label="Last Name"
+                    sap:quickinfo="EPM: Last Name" />
+            </EntityType>
+            <Association Name="assoc_3448B816D125B8CA2AA03792F92D6ED8" sap:content-version="1">
+                <End Type="ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType" Multiplicity="1"
+                    Role="FromRole_assoc_3448B816D125B8CA2AA03792F92D6ED8" />
+                <End Type="ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType" Multiplicity="0..1"
+                    Role="ToRole_assoc_3448B816D125B8CA2AA03792F92D6ED8" />
+            </Association>
+            <EntityContainer Name="ZCDS_CONS_VIEW_SOITEMS_CDS_Entities" m:IsDefaultEntityContainer="true"
+                sap:supported-formats="atom json xlsx">
+                <EntitySet Name="zcds_cons_view_soitems"
+                    EntityType="ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType" sap:creatable="false"
+                    sap:updatable="false" sap:deletable="false" sap:searchable="true" sap:content-version="1" />
+                <EntitySet Name="zcds_employee_vh" EntityType="ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_employee_vhType"
+                    sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:searchable="true"
+                    sap:content-version="1" />
+                <AssociationSet Name="assoc_3448B816D125B8CA2AA03792F92D6ED8"
+                    Association="ZCDS_CONS_VIEW_SOITEMS_CDS.assoc_3448B816D125B8CA2AA03792F92D6ED8"
+                    sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:content-version="1">
+                    <End EntitySet="zcds_cons_view_soitems" Role="FromRole_assoc_3448B816D125B8CA2AA03792F92D6ED8" />
+                    <End EntitySet="zcds_employee_vh" Role="ToRole_assoc_3448B816D125B8CA2AA03792F92D6ED8" />
+                </AssociationSet>
+            </EntityContainer>
+            <Annotations Target="ZCDS_CONS_VIEW_SOITEMS_CDS.zcds_cons_view_soitemsType/created_by"
+                xmlns="http://docs.oasis-open.org/odata/ns/edm">
+                <Annotation Term="Common.ValueList">
+                    <Record>
+                        <PropertyValue Property="Label" String="Value Help for Employees" />
+                        <PropertyValue Property="CollectionPath" String="zcds_employee_vh" />
+                        <PropertyValue Property="SearchSupported" Bool="true" />
+                        <PropertyValue Property="Parameters">
+                            <Collection>
+                                <Record Type="Common.ValueListParameterInOut">
+                                    <PropertyValue Property="LocalDataProperty" PropertyPath="created_by" />
+                                    <PropertyValue Property="ValueListProperty" String="employee_id" />
+                                </Record>
+                                <Record Type="Common.ValueListParameterDisplayOnly">
+                                    <PropertyValue Property="ValueListProperty" String="first_name" />
+                                </Record>
+                                <Record Type="Common.ValueListParameterDisplayOnly">
+                                    <PropertyValue Property="ValueListProperty" String="last_name" />
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                    </Record>
+                </Annotation>
+            </Annotations>
+            <atom:link rel="self"
+                href="http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/$metadata"
+                xmlns:atom="http://www.w3.org/2005/Atom" />
+            <atom:link rel="latest-version"
+                href="http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/$metadata"
+                xmlns:atom="http://www.w3.org/2005/Atom" />
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

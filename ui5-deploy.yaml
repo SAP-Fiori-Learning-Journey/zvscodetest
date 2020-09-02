@@ -1,0 +1,17 @@
+specVersion: '1.0'
+metadata:
+  name: 'zvscodetest'
+type: application
+ui5Theme: sap_fiori_3
+builder:
+  customTasks:
+    - name: deploy-to-abap
+      afterTask: generateVersionInfo
+      configuration:
+        target:
+          url: http://azrap001.eastus2.cloudapp.azure.com:50800/
+          client: "100"
+        app:
+          name: ZVSCODETEST
+          package: ZDEV
+          transport: TS3K900301
