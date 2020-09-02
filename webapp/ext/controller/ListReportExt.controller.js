@@ -1,20 +1,16 @@
 sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
-	
+
 	onInitSmartFilterBarExtension: function (oEvent) {
 
 		this._sFilterBarId = oEvent.getSource().getId();
 
-		if (!this._bI18nEnhanced) {
+		var oI18n = this.getView().getModel("i18n");
+		var sBundleURL = this.getView().getModel("i18nCustom").getResourceBundle().oUrlInfo.url;
+		oI18n.enhance({
+			bundleUrl: sBundleURL
+		});
 
-			let oI18n = this.getView().getModel("i18n");
-			let sBundleURL = this.getView().getModel("i18nCustom").getResourceBundle().oUrlInfo.url;
-			oI18n.enhance({
-				bundleUrl: sBundleURL
-			});
-			this._bI18nEnhanced = true;
-			this._oResourceBundle = oI18n.getResourceBundle();
-
-		}
+		this._oResourceBundle = oI18n.getResourceBundle();
 
 	},
 
@@ -184,6 +180,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 		});
 
 		return aCols;
+
 	}
 
 });
