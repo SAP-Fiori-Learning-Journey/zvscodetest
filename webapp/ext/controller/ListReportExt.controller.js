@@ -51,9 +51,8 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 		sap.ui.require([
 			"sap/ui/export/Spreadsheet",
-			"sap/ui/export/library",
 			"zvscodetest/localService/mockserver"
-		], function (Spreadsheet, ExportLibrary, MockServer) {
+		], function (Spreadsheet, MockServer) {
 
 			var oTable = this._oSmartTable.getTable();
 			var oRowBinding = oTable.getBinding("items");
@@ -80,7 +79,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 				worker: oMockServer === undefined ? true : false
 			};
 
-			oSheet = new Spreadsheet(oSettings);
+			var oSheet = new Spreadsheet(oSettings);
 			oSheet.build().finally(function () {
 				oSheet.destroy();
 			});
@@ -149,7 +148,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 			}));
 
 		});
-		
+
 		oBindingParams.filters.push(new sap.ui.model.Filter({
 			filters: aFilters,
 			and: sBool === "0" ? true : false
