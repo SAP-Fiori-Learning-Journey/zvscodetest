@@ -46,6 +46,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 		}
 
 	},
+
 	onExportToExcelzcds_cons_view_soitems: function (oEvent) {
 
 		sap.ui.require([
@@ -148,6 +149,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 			}));
 
 		});
+		
 		oBindingParams.filters.push(new sap.ui.model.Filter({
 			filters: aFilters,
 			and: sBool === "0" ? true : false

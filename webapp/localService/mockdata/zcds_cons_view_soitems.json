@@ -21,6 +21,7 @@
         "product_id" : "HT-1000",
         "text" : "Notebook Basic 15",
         "text_upper" : "NOTEBOOK BASIC 15",
+        "virtual" : "Virtual Element 1",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='10')/to_Employees"
@@ -47,6 +48,7 @@
         "product_id" : "HT-1001",
         "text" : "Notebook Basic 17",
         "text_upper" : "NOTEBOOK BASIC 17",
+        "virtual" : "Virtual Element 2",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='20')/to_Employees"
@@ -73,6 +75,7 @@
         "product_id" : "HT-1002",
         "text" : "Notebook Basic 18",
         "text_upper" : "NOTEBOOK BASIC 18",
+        "virtual" : "Virtual Element 3",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='30')/to_Employees"
@@ -99,6 +102,7 @@
         "product_id" : "HT-1003",
         "text" : "Notebook Basic 19",
         "text_upper" : "NOTEBOOK BASIC 19",
+        "virtual" : "Virtual Element 4",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='40')/to_Employees"
@@ -125,6 +129,7 @@
         "product_id" : "HT-1007",
         "text" : "ITelO Vault",
         "text_upper" : "ITELO VAULT",
+        "virtual" : "Virtual Element 5",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='50')/to_Employees"
@@ -151,6 +156,7 @@
         "product_id" : "HT-1010",
         "text" : "Notebook Professional 15",
         "text_upper" : "NOTEBOOK PROFESSIONAL 15",
+        "virtual" : "Virtual Element 6",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='60')/to_Employees"
@@ -177,6 +183,7 @@
         "product_id" : "HT-1011",
         "text" : "Notebook Professional 17",
         "text_upper" : "NOTEBOOK PROFESSIONAL 17",
+        "virtual" : "Virtual Element 7",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='70')/to_Employees"
@@ -203,6 +210,7 @@
         "product_id" : "HT-1030",
         "text" : "Ergo Screen E-I",
         "text_upper" : "ERGO SCREEN E-I",
+        "virtual" : "Virtual Element 8",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='80')/to_Employees"
@@ -229,6 +237,7 @@
         "product_id" : "HT-1031",
         "text" : "Ergo Screen E-II",
         "text_upper" : "ERGO SCREEN E-II",
+        "virtual" : "Virtual Element 9",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='90')/to_Employees"
@@ -255,6 +264,7 @@
         "product_id" : "HT-1032",
         "text" : "Ergo Screen E-III",
         "text_upper" : "ERGO SCREEN E-III",
+        "virtual" : "Virtual Element 10",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000000',so_item_pos='100')/to_Employees"
@@ -281,6 +291,7 @@
         "product_id" : "HT-1030",
         "text" : "Ergo Screen E-I",
         "text_upper" : "ERGO SCREEN E-I",
+        "virtual" : "Virtual Element 11",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='10')/to_Employees"
@@ -307,6 +318,7 @@
         "product_id" : "HT-1031",
         "text" : "Ergo Screen E-II",
         "text_upper" : "ERGO SCREEN E-II",
+        "virtual" : "Virtual Element 12",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='20')/to_Employees"
@@ -333,6 +345,7 @@
         "product_id" : "HT-1032",
         "text" : "Ergo Screen E-III",
         "text_upper" : "ERGO SCREEN E-III",
+        "virtual" : "Virtual Element 13",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='30')/to_Employees"
@@ -359,6 +372,7 @@
         "product_id" : "HT-1035",
         "text" : "Flat Basic",
         "text_upper" : "FLAT BASIC",
+        "virtual" : "Virtual Element 14",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='40')/to_Employees"
@@ -385,6 +399,7 @@
         "product_id" : "HT-1036",
         "text" : "Flat Future",
         "text_upper" : "FLAT FUTURE",
+        "virtual" : "Virtual Element 15",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='50')/to_Employees"
@@ -411,6 +426,7 @@
         "product_id" : "HT-1037",
         "text" : "Flat XL",
         "text_upper" : "FLAT XL",
+        "virtual" : "Virtual Element 16",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='60')/to_Employees"
@@ -437,6 +453,7 @@
         "product_id" : "HT-1020",
         "text" : "ITelO Vault Net",
         "text_upper" : "ITELO VAULT NET",
+        "virtual" : "Virtual Element 17",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='70')/to_Employees"
@@ -463,6 +480,7 @@
         "product_id" : "HT-1021",
         "text" : "ITelO Vault SAT",
         "text_upper" : "ITELO VAULT SAT",
+        "virtual" : "Virtual Element 18",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='80')/to_Employees"
@@ -489,6 +507,7 @@
         "product_id" : "HT-1022",
         "text" : "Comfort Easy",
         "text_upper" : "COMFORT EASY",
+        "virtual" : "Virtual Element 19",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='90')/to_Employees"
@@ -515,6 +534,7 @@
         "product_id" : "HT-1023",
         "text" : "Comfort Senior",
         "text_upper" : "COMFORT SENIOR",
+        "virtual" : "Virtual Element 20",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000001',so_item_pos='100')/to_Employees"
@@ -541,6 +561,7 @@
         "product_id" : "HT-1040",
         "text" : "Laser Professional Eco",
         "text_upper" : "LASER PROFESSIONAL ECO",
+        "virtual" : "Virtual Element 21",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='10')/to_Employees"
@@ -567,6 +588,7 @@
         "product_id" : "HT-1041",
         "text" : "Laser Basic",
         "text_upper" : "LASER BASIC",
+        "virtual" : "Virtual Element 22",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='20')/to_Employees"
@@ -593,6 +615,7 @@
         "product_id" : "HT-1042",
         "text" : "Laser Allround",
         "text_upper" : "LASER ALLROUND",
+        "virtual" : "Virtual Element 23",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='30')/to_Employees"
@@ -619,6 +642,7 @@
         "product_id" : "HT-1050",
         "text" : "Ultra Jet Super Color",
         "text_upper" : "ULTRA JET SUPER COLOR",
+        "virtual" : "Virtual Element 24",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='40')/to_Employees"
@@ -645,6 +669,7 @@
         "product_id" : "HT-1051",
         "text" : "Ultra Jet Mobile",
         "text_upper" : "ULTRA JET MOBILE",
+        "virtual" : "Virtual Element 25",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='50')/to_Employees"
@@ -671,6 +696,7 @@
         "product_id" : "HT-1052",
         "text" : "Ultra Jet Super Highspeed",
         "text_upper" : "ULTRA JET SUPER HIGHSPEED",
+        "virtual" : "Virtual Element 26",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='60')/to_Employees"
@@ -697,6 +723,7 @@
         "product_id" : "HT-1055",
         "text" : "Multi Print",
         "text_upper" : "MULTI PRINT",
+        "virtual" : "Virtual Element 27",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='70')/to_Employees"
@@ -723,6 +750,7 @@
         "product_id" : "HT-1056",
         "text" : "Multi Color",
         "text_upper" : "MULTI COLOR",
+        "virtual" : "Virtual Element 28",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000002',so_item_pos='80')/to_Employees"
@@ -749,6 +777,7 @@
         "product_id" : "HT-1073",
         "text" : "Hurricane GX/LN",
         "text_upper" : "HURRICANE GX/LN",
+        "virtual" : "Virtual Element 29",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='10')/to_Employees"
@@ -775,6 +804,7 @@
         "product_id" : "HT-1080",
         "text" : "Photo Scan",
         "text_upper" : "PHOTO SCAN",
+        "virtual" : "Virtual Element 30",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='20')/to_Employees"
@@ -801,6 +831,7 @@
         "product_id" : "HT-1081",
         "text" : "Power Scan",
         "text_upper" : "POWER SCAN",
+        "virtual" : "Virtual Element 31",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='30')/to_Employees"
@@ -827,6 +858,7 @@
         "product_id" : "HT-1082",
         "text" : "Jet Scan Professional",
         "text_upper" : "JET SCAN PROFESSIONAL",
+        "virtual" : "Virtual Element 32",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='40')/to_Employees"
@@ -853,6 +885,7 @@
         "product_id" : "HT-1083",
         "text" : "Jet Scan Professional",
         "text_upper" : "JET SCAN PROFESSIONAL",
+        "virtual" : "Virtual Element 33",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000003',so_item_pos='50')/to_Employees"
@@ -879,6 +912,7 @@
         "product_id" : "HT-1100",
         "text" : "Smart Office",
         "text_upper" : "SMART OFFICE",
+        "virtual" : "Virtual Element 34",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='10')/to_Employees"
@@ -905,6 +939,7 @@
         "product_id" : "HT-1101",
         "text" : "Smart Design",
         "text_upper" : "SMART DESIGN",
+        "virtual" : "Virtual Element 35",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='20')/to_Employees"
@@ -931,6 +966,7 @@
         "product_id" : "HT-1102",
         "text" : "Smart Network",
         "text_upper" : "SMART NETWORK",
+        "virtual" : "Virtual Element 36",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='30')/to_Employees"
@@ -957,6 +993,7 @@
         "product_id" : "HT-1103",
         "text" : "Smart Multimedia",
         "text_upper" : "SMART MULTIMEDIA",
+        "virtual" : "Virtual Element 37",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='40')/to_Employees"
@@ -983,6 +1020,7 @@
         "product_id" : "HT-1104",
         "text" : "Smart Games",
         "text_upper" : "SMART GAMES",
+        "virtual" : "Virtual Element 38",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000004',so_item_pos='50')/to_Employees"
@@ -1009,6 +1047,7 @@
         "product_id" : "HT-1500",
         "text" : "Server Basic",
         "text_upper" : "SERVER BASIC",
+        "virtual" : "Virtual Element 39",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='10')/to_Employees"
@@ -1035,6 +1074,7 @@
         "product_id" : "HT-1501",
         "text" : "Server Professional",
         "text_upper" : "SERVER PROFESSIONAL",
+        "virtual" : "Virtual Element 40",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='20')/to_Employees"
@@ -1061,6 +1101,7 @@
         "product_id" : "HT-1502",
         "text" : "Server Power Pro",
         "text_upper" : "SERVER POWER PRO",
+        "virtual" : "Virtual Element 41",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='30')/to_Employees"
@@ -1087,6 +1128,7 @@
         "product_id" : "HT-1110",
         "text" : "PC Lock",
         "text_upper" : "PC LOCK",
+        "virtual" : "Virtual Element 42",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='40')/to_Employees"
@@ -1113,6 +1155,7 @@
         "product_id" : "HT-1111",
         "text" : "Notebook Lock",
         "text_upper" : "NOTEBOOK LOCK",
+        "virtual" : "Virtual Element 43",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='50')/to_Employees"
@@ -1139,6 +1182,7 @@
         "product_id" : "HT-1112",
         "text" : "Web cam reality",
         "text_upper" : "WEB CAM REALITY",
+        "virtual" : "Virtual Element 44",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='60')/to_Employees"
@@ -1165,6 +1209,7 @@
         "product_id" : "HT-1113",
         "text" : "Screen clean",
         "text_upper" : "SCREEN CLEAN",
+        "virtual" : "Virtual Element 45",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000005',so_item_pos='70')/to_Employees"
@@ -1191,6 +1236,7 @@
         "product_id" : "HT-1105",
         "text" : "Smart Internet Antivirus",
         "text_upper" : "SMART INTERNET ANTIVIRUS",
+        "virtual" : "Virtual Element 46",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='10')/to_Employees"
@@ -1217,6 +1263,7 @@
         "product_id" : "HT-1106",
         "text" : "Smart Firewall",
         "text_upper" : "SMART FIREWALL",
+        "virtual" : "Virtual Element 47",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='20')/to_Employees"
@@ -1243,6 +1290,7 @@
         "product_id" : "HT-1107",
         "text" : "Smart Money",
         "text_upper" : "SMART MONEY",
+        "virtual" : "Virtual Element 48",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000006',so_item_pos='30')/to_Employees"
@@ -1269,6 +1317,7 @@
         "product_id" : "HT-1030",
         "text" : "Ergo Screen E-I",
         "text_upper" : "ERGO SCREEN E-I",
+        "virtual" : "Virtual Element 49",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='10')/to_Employees"
@@ -1295,6 +1344,7 @@
         "product_id" : "HT-1031",
         "text" : "Ergo Screen E-II",
         "text_upper" : "ERGO SCREEN E-II",
+        "virtual" : "Virtual Element 50",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='20')/to_Employees"
@@ -1321,6 +1371,7 @@
         "product_id" : "HT-1032",
         "text" : "Ergo Screen E-III",
         "text_upper" : "ERGO SCREEN E-III",
+        "virtual" : "Virtual Element 51",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='30')/to_Employees"
@@ -1347,6 +1398,7 @@
         "product_id" : "HT-1035",
         "text" : "Flat Basic",
         "text_upper" : "FLAT BASIC",
+        "virtual" : "Virtual Element 52",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='40')/to_Employees"
@@ -1373,6 +1425,7 @@
         "product_id" : "HT-1036",
         "text" : "Flat Future",
         "text_upper" : "FLAT FUTURE",
+        "virtual" : "Virtual Element 53",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='50')/to_Employees"
@@ -1399,6 +1452,7 @@
         "product_id" : "HT-1037",
         "text" : "Flat XL",
         "text_upper" : "FLAT XL",
+        "virtual" : "Virtual Element 54",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='60')/to_Employees"
@@ -1425,6 +1479,7 @@
         "product_id" : "HT-1000",
         "text" : "Notebook Basic 15",
         "text_upper" : "NOTEBOOK BASIC 15",
+        "virtual" : "Virtual Element 55",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='70')/to_Employees"
@@ -1451,6 +1506,7 @@
         "product_id" : "HT-1001",
         "text" : "Notebook Basic 17",
         "text_upper" : "NOTEBOOK BASIC 17",
+        "virtual" : "Virtual Element 56",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000007',so_item_pos='80')/to_Employees"
@@ -1477,6 +1533,7 @@
         "product_id" : "HT-1060",
         "text" : "Cordless Mouse",
         "text_upper" : "CORDLESS MOUSE",
+        "virtual" : "Virtual Element 57",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='10')/to_Employees"
@@ -1503,6 +1560,7 @@
         "product_id" : "HT-1061",
         "text" : "Speed Mouse",
         "text_upper" : "SPEED MOUSE",
+        "virtual" : "Virtual Element 58",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='20')/to_Employees"
@@ -1529,6 +1587,7 @@
         "product_id" : "HT-1062",
         "text" : "Track Mouse",
         "text_upper" : "TRACK MOUSE",
+        "virtual" : "Virtual Element 59",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='30')/to_Employees"
@@ -1555,6 +1614,7 @@
         "product_id" : "HT-1063",
         "text" : "Ergonomic Keyboard",
         "text_upper" : "ERGONOMIC KEYBOARD",
+        "virtual" : "Virtual Element 60",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='40')/to_Employees"
@@ -1581,6 +1641,7 @@
         "product_id" : "HT-1064",
         "text" : "Internet Keyboard",
         "text_upper" : "INTERNET KEYBOARD",
+        "virtual" : "Virtual Element 61",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='50')/to_Employees"
@@ -1607,6 +1668,7 @@
         "product_id" : "HT-1065",
         "text" : "Media Keyboard",
         "text_upper" : "MEDIA KEYBOARD",
+        "virtual" : "Virtual Element 62",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000008',so_item_pos='60')/to_Employees"
@@ -1633,6 +1695,7 @@
         "product_id" : "HT-1040",
         "text" : "Laser Professional Eco",
         "text_upper" : "LASER PROFESSIONAL ECO",
+        "virtual" : "Virtual Element 63",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='10')/to_Employees"
@@ -1659,6 +1722,7 @@
         "product_id" : "HT-1041",
         "text" : "Laser Basic",
         "text_upper" : "LASER BASIC",
+        "virtual" : "Virtual Element 64",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='20')/to_Employees"
@@ -1685,6 +1749,7 @@
         "product_id" : "HT-1042",
         "text" : "Laser Allround",
         "text_upper" : "LASER ALLROUND",
+        "virtual" : "Virtual Element 65",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000009',so_item_pos='30')/to_Employees"
@@ -1711,6 +1776,7 @@
         "product_id" : "HT-1070",
         "text" : "Proctra X",
         "text_upper" : "PROCTRA X",
+        "virtual" : "Virtual Element 66",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='10')/to_Employees"
@@ -1737,6 +1803,7 @@
         "product_id" : "HT-1071",
         "text" : "Gladiator MX",
         "text_upper" : "GLADIATOR MX",
+        "virtual" : "Virtual Element 67",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='20')/to_Employees"
@@ -1763,6 +1830,7 @@
         "product_id" : "HT-1072",
         "text" : "Hurricane GX",
         "text_upper" : "HURRICANE GX",
+        "virtual" : "Virtual Element 68",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='30')/to_Employees"
@@ -1789,6 +1857,7 @@
         "product_id" : "HT-1066",
         "text" : "Mousepad",
         "text_upper" : "MOUSEPAD",
+        "virtual" : "Virtual Element 69",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='40')/to_Employees"
@@ -1815,6 +1884,7 @@
         "product_id" : "HT-1067",
         "text" : "Ergo Mousepad",
         "text_upper" : "ERGO MOUSEPAD",
+        "virtual" : "Virtual Element 70",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='50')/to_Employees"
@@ -1841,6 +1911,7 @@
         "product_id" : "HT-1068",
         "text" : "Designer Mousepad",
         "text_upper" : "DESIGNER MOUSEPAD",
+        "virtual" : "Virtual Element 71",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='60')/to_Employees"
@@ -1867,6 +1938,7 @@
         "product_id" : "HT-1069",
         "text" : "Universal card reader",
         "text_upper" : "UNIVERSAL CARD READER",
+        "virtual" : "Virtual Element 72",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000010',so_item_pos='70')/to_Employees"
@@ -1893,6 +1965,7 @@
         "product_id" : "HT-1104",
         "text" : "Smart Games",
         "text_upper" : "SMART GAMES",
+        "virtual" : "Virtual Element 73",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='10')/to_Employees"
@@ -1919,6 +1992,7 @@
         "product_id" : "HT-1105",
         "text" : "Smart Internet Antivirus",
         "text_upper" : "SMART INTERNET ANTIVIRUS",
+        "virtual" : "Virtual Element 74",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='20')/to_Employees"
@@ -1945,6 +2019,7 @@
         "product_id" : "HT-1106",
         "text" : "Smart Firewall",
         "text_upper" : "SMART FIREWALL",
+        "virtual" : "Virtual Element 75",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='30')/to_Employees"
@@ -1971,6 +2046,7 @@
         "product_id" : "HT-1107",
         "text" : "Smart Money",
         "text_upper" : "SMART MONEY",
+        "virtual" : "Virtual Element 76",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000011',so_item_pos='40')/to_Employees"
@@ -1997,6 +2073,7 @@
         "product_id" : "HT-1000",
         "text" : "Notebook Basic 15",
         "text_upper" : "NOTEBOOK BASIC 15",
+        "virtual" : "Virtual Element 77",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='10')/to_Employees"
@@ -2023,6 +2100,7 @@
         "product_id" : "HT-1001",
         "text" : "Notebook Basic 17",
         "text_upper" : "NOTEBOOK BASIC 17",
+        "virtual" : "Virtual Element 78",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='20')/to_Employees"
@@ -2049,6 +2127,7 @@
         "product_id" : "HT-1002",
         "text" : "Notebook Basic 18",
         "text_upper" : "NOTEBOOK BASIC 18",
+        "virtual" : "Virtual Element 79",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='30')/to_Employees"
@@ -2075,6 +2154,7 @@
         "product_id" : "HT-1003",
         "text" : "Notebook Basic 19",
         "text_upper" : "NOTEBOOK BASIC 19",
+        "virtual" : "Virtual Element 80",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='40')/to_Employees"
@@ -2101,6 +2181,7 @@
         "product_id" : "HT-1007",
         "text" : "ITelO Vault",
         "text_upper" : "ITELO VAULT",
+        "virtual" : "Virtual Element 81",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='50')/to_Employees"
@@ -2127,6 +2208,7 @@
         "product_id" : "HT-1010",
         "text" : "Notebook Professional 15",
         "text_upper" : "NOTEBOOK PROFESSIONAL 15",
+        "virtual" : "Virtual Element 82",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='60')/to_Employees"
@@ -2153,6 +2235,7 @@
         "product_id" : "HT-1011",
         "text" : "Notebook Professional 17",
         "text_upper" : "NOTEBOOK PROFESSIONAL 17",
+        "virtual" : "Virtual Element 83",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='70')/to_Employees"
@@ -2179,6 +2262,7 @@
         "product_id" : "HT-1020",
         "text" : "ITelO Vault Net",
         "text_upper" : "ITELO VAULT NET",
+        "virtual" : "Virtual Element 84",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='80')/to_Employees"
@@ -2205,6 +2289,7 @@
         "product_id" : "HT-1021",
         "text" : "ITelO Vault SAT",
         "text_upper" : "ITELO VAULT SAT",
+        "virtual" : "Virtual Element 85",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000012',so_item_pos='90')/to_Employees"
@@ -2231,6 +2316,7 @@
         "product_id" : "HT-1022",
         "text" : "Comfort Easy",
         "text_upper" : "COMFORT EASY",
+        "virtual" : "Virtual Element 86",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='10')/to_Employees"
@@ -2257,6 +2343,7 @@
         "product_id" : "HT-1023",
         "text" : "Comfort Senior",
         "text_upper" : "COMFORT SENIOR",
+        "virtual" : "Virtual Element 87",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='20')/to_Employees"
@@ -2283,6 +2370,7 @@
         "product_id" : "HT-1030",
         "text" : "Ergo Screen E-I",
         "text_upper" : "ERGO SCREEN E-I",
+        "virtual" : "Virtual Element 88",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='30')/to_Employees"
@@ -2309,6 +2397,7 @@
         "product_id" : "HT-1031",
         "text" : "Ergo Screen E-II",
         "text_upper" : "ERGO SCREEN E-II",
+        "virtual" : "Virtual Element 89",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='40')/to_Employees"
@@ -2335,6 +2424,7 @@
         "product_id" : "HT-1032",
         "text" : "Ergo Screen E-III",
         "text_upper" : "ERGO SCREEN E-III",
+        "virtual" : "Virtual Element 90",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='50')/to_Employees"
@@ -2361,6 +2451,7 @@
         "product_id" : "HT-1035",
         "text" : "Flat Basic",
         "text_upper" : "FLAT BASIC",
+        "virtual" : "Virtual Element 91",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='60')/to_Employees"
@@ -2387,6 +2478,7 @@
         "product_id" : "HT-1036",
         "text" : "Flat Future",
         "text_upper" : "FLAT FUTURE",
+        "virtual" : "Virtual Element 92",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000013',so_item_pos='70')/to_Employees"
@@ -2413,6 +2505,7 @@
         "product_id" : "HT-1040",
         "text" : "Laser Professional Eco",
         "text_upper" : "LASER PROFESSIONAL ECO",
+        "virtual" : "Virtual Element 93",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='10')/to_Employees"
@@ -2439,6 +2532,7 @@
         "product_id" : "HT-1041",
         "text" : "Laser Basic",
         "text_upper" : "LASER BASIC",
+        "virtual" : "Virtual Element 94",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='20')/to_Employees"
@@ -2465,6 +2559,7 @@
         "product_id" : "HT-1042",
         "text" : "Laser Allround",
         "text_upper" : "LASER ALLROUND",
+        "virtual" : "Virtual Element 95",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='30')/to_Employees"
@@ -2491,6 +2586,7 @@
         "product_id" : "HT-1050",
         "text" : "Ultra Jet Super Color",
         "text_upper" : "ULTRA JET SUPER COLOR",
+        "virtual" : "Virtual Element 96",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='40')/to_Employees"
@@ -2517,6 +2613,7 @@
         "product_id" : "HT-1051",
         "text" : "Ultra Jet Mobile",
         "text_upper" : "ULTRA JET MOBILE",
+        "virtual" : "Virtual Element 97",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='50')/to_Employees"
@@ -2543,6 +2640,7 @@
         "product_id" : "HT-1052",
         "text" : "Ultra Jet Super Highspeed",
         "text_upper" : "ULTRA JET SUPER HIGHSPEED",
+        "virtual" : "Virtual Element 98",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000014',so_item_pos='60')/to_Employees"
@@ -2569,6 +2667,7 @@
         "product_id" : "HT-1055",
         "text" : "Multi Print",
         "text_upper" : "MULTI PRINT",
+        "virtual" : "Virtual Element 99",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='10')/to_Employees"
@@ -2595,6 +2694,7 @@
         "product_id" : "HT-1056",
         "text" : "Multi Color",
         "text_upper" : "MULTI COLOR",
+        "virtual" : "Virtual Element 100",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='20')/to_Employees"
@@ -2621,6 +2721,7 @@
         "product_id" : "HT-1060",
         "text" : "Cordless Mouse",
         "text_upper" : "CORDLESS MOUSE",
+        "virtual" : "Virtual Element 101",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='30')/to_Employees"
@@ -2647,6 +2748,7 @@
         "product_id" : "HT-1061",
         "text" : "Speed Mouse",
         "text_upper" : "SPEED MOUSE",
+        "virtual" : "Virtual Element 102",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='40')/to_Employees"
@@ -2673,6 +2775,7 @@
         "product_id" : "HT-1062",
         "text" : "Track Mouse",
         "text_upper" : "TRACK MOUSE",
+        "virtual" : "Virtual Element 103",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='50')/to_Employees"
@@ -2699,6 +2802,7 @@
         "product_id" : "HT-1063",
         "text" : "Ergonomic Keyboard",
         "text_upper" : "ERGONOMIC KEYBOARD",
+        "virtual" : "Virtual Element 104",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='60')/to_Employees"
@@ -2725,6 +2829,7 @@
         "product_id" : "HT-1064",
         "text" : "Internet Keyboard",
         "text_upper" : "INTERNET KEYBOARD",
+        "virtual" : "Virtual Element 105",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='70')/to_Employees"
@@ -2751,6 +2856,7 @@
         "product_id" : "HT-1065",
         "text" : "Media Keyboard",
         "text_upper" : "MEDIA KEYBOARD",
+        "virtual" : "Virtual Element 106",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='80')/to_Employees"
@@ -2777,6 +2883,7 @@
         "product_id" : "HT-1066",
         "text" : "Mousepad",
         "text_upper" : "MOUSEPAD",
+        "virtual" : "Virtual Element 107",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000015',so_item_pos='90')/to_Employees"
@@ -2803,6 +2910,7 @@
         "product_id" : "HT-1067",
         "text" : "Ergo Mousepad",
         "text_upper" : "ERGO MOUSEPAD",
+        "virtual" : "Virtual Element 108",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='10')/to_Employees"
@@ -2829,6 +2937,7 @@
         "product_id" : "HT-1068",
         "text" : "Designer Mousepad",
         "text_upper" : "DESIGNER MOUSEPAD",
+        "virtual" : "Virtual Element 109",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='20')/to_Employees"
@@ -2855,6 +2964,7 @@
         "product_id" : "HT-1069",
         "text" : "Universal card reader",
         "text_upper" : "UNIVERSAL CARD READER",
+        "virtual" : "Virtual Element 110",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000016',so_item_pos='30')/to_Employees"
@@ -2881,6 +2991,7 @@
         "product_id" : "HT-1100",
         "text" : "Smart Office",
         "text_upper" : "SMART OFFICE",
+        "virtual" : "Virtual Element 111",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='10')/to_Employees"
@@ -2907,6 +3018,7 @@
         "product_id" : "HT-1107",
         "text" : "Smart Money",
         "text_upper" : "SMART MONEY",
+        "virtual" : "Virtual Element 112",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000017',so_item_pos='20')/to_Employees"
@@ -2933,6 +3045,7 @@
         "product_id" : "HT-1100",
         "text" : "Smart Office",
         "text_upper" : "SMART OFFICE",
+        "virtual" : "Virtual Element 113",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='10')/to_Employees"
@@ -2959,6 +3072,7 @@
         "product_id" : "HT-1101",
         "text" : "Smart Design",
         "text_upper" : "SMART DESIGN",
+        "virtual" : "Virtual Element 114",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='20')/to_Employees"
@@ -2985,6 +3099,7 @@
         "product_id" : "HT-1102",
         "text" : "Smart Network",
         "text_upper" : "SMART NETWORK",
+        "virtual" : "Virtual Element 115",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='30')/to_Employees"
@@ -3011,6 +3126,7 @@
         "product_id" : "HT-1103",
         "text" : "Smart Multimedia",
         "text_upper" : "SMART MULTIMEDIA",
+        "virtual" : "Virtual Element 116",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000018',so_item_pos='40')/to_Employees"
@@ -3037,6 +3153,7 @@
         "product_id" : "HT-1070",
         "text" : "Proctra X",
         "text_upper" : "PROCTRA X",
+        "virtual" : "Virtual Element 117",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='10')/to_Employees"
@@ -3063,6 +3180,7 @@
         "product_id" : "HT-1071",
         "text" : "Gladiator MX",
         "text_upper" : "GLADIATOR MX",
+        "virtual" : "Virtual Element 118",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='20')/to_Employees"
@@ -3089,6 +3207,7 @@
         "product_id" : "HT-1072",
         "text" : "Hurricane GX",
         "text_upper" : "HURRICANE GX",
+        "virtual" : "Virtual Element 119",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='30')/to_Employees"
@@ -3115,6 +3234,7 @@
         "product_id" : "HT-1073",
         "text" : "Hurricane GX/LN",
         "text_upper" : "HURRICANE GX/LN",
+        "virtual" : "Virtual Element 120",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='40')/to_Employees"
@@ -3141,6 +3261,7 @@
         "product_id" : "HT-1080",
         "text" : "Photo Scan",
         "text_upper" : "PHOTO SCAN",
+        "virtual" : "Virtual Element 121",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='50')/to_Employees"
@@ -3167,6 +3288,7 @@
         "product_id" : "HT-1081",
         "text" : "Power Scan",
         "text_upper" : "POWER SCAN",
+        "virtual" : "Virtual Element 122",
         "to_Employees" : {
           "__deferred" : {
             "uri" : "http://oildfespas01.sydapp.net:8000/sap/opu/odata/sap/ZCDS_CONS_VIEW_SOITEMS_CDS/zcds_cons_view_soitems(so_id='500000019',so_item_pos='60')/to_Employees"

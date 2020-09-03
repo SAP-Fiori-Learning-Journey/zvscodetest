@@ -43,6 +43,9 @@
                 <Property Name="text" Type="Edm.String" MaxLength="255" sap:label="Description"
                     sap:quickinfo="EPM: Text field for names and descriptions" />
                 <Property Name="text_upper" Type="Edm.String" MaxLength="255" sap:display-format="UpperCase" />
+                <Property Name="virtual" Type="Edm.String" MaxLength="50" sap:display-format="UpperCase"
+                    sap:label="Virtual Element" sap:creatable="false" sap:updatable="false" sap:sortable="false"
+                    sap:filterable="false" />
                 <NavigationProperty Name="to_Employees"
                     Relationship="ZCDS_CONS_VIEW_SOITEMS_CDS.assoc_3448B816D125B8CA2AA03792F92D6ED8"
                     FromRole="FromRole_assoc_3448B816D125B8CA2AA03792F92D6ED8"
