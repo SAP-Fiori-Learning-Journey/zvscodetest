@@ -4,3 +4,4 @@ dist/
 .scp/
 .env
 ../.vscode
+*.code-workspace

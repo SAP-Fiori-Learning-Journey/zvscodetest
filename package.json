@@ -24,8 +24,8 @@
         ]
     },
     "devDependencies": {
-        "@sap/ux-specification": "^1.78.7",
-        "@sap/ux-ui5-tooling": "^1.0.15",
+        "@sap/ux-specification": "^1.78.8",
+        "@sap/ux-ui5-tooling": "^1.0.16",
         "@ui5/cli": "2.3.2",
         "@ui5/fs": "2.0.1",
         "@ui5/logger": "2.0.0",

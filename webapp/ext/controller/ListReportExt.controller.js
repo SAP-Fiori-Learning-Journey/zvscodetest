@@ -52,7 +52,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 		sap.ui.require([
 			"sap/ui/export/Spreadsheet",
 			"zvscodetest/localService/mockserver"
-		], function (Spreadsheet, MockServer) {
+		], (Spreadsheet, MockServer) => {
 
 			var oTable = this._oSmartTable.getTable();
 			var oRowBinding = oTable.getBinding("items");
@@ -80,11 +80,11 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 			};
 
 			var oSheet = new Spreadsheet(oSettings);
-			oSheet.build().finally(function () {
+			oSheet.build().finally(() => {
 				oSheet.destroy();
 			});
 
-		}.bind(this));
+		});
 
 	},
 
