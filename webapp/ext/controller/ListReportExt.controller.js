@@ -65,7 +65,10 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 			var oSettings = {
 				workbook: {
 					columns: aCols,
-					hierarchyLevel: 'Level'
+					hierarchyLevel: 'Level',
+					context: {
+						sheetName: this._oResourceBundle.getText("txtSheetName")
+					}
 				},
 				dataSource: {
 					type: 'odata',
