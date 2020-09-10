@@ -54,20 +54,21 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 			"zvscodetest/localService/mockserver"
 		], (Spreadsheet, MockServer) => {
 
-			var oTable = this._oSmartTable.getTable();
-			var oRowBinding = oTable.getBinding("items");
+			let oTable = this._oSmartTable.getTable();
+			let oRowBinding = oTable.getBinding("items");
 
-			var oModel = oRowBinding.getModel();
-			var aCols = this._createColumnConfig(oModel);
+			let oModel = oRowBinding.getModel();
+			let aCols = this._createColumnConfig(oModel);
 
-			var oMockServer = MockServer.getMockServer();
+			let oMockServer = MockServer.getMockServer();
+			let oResourceBundle = this._oResourceBundle;
 
-			var oSettings = {
+			let oSettings = {
 				workbook: {
 					columns: aCols,
 					hierarchyLevel: 'Level',
 					context: {
-						sheetName: this._oResourceBundle.getText("txtSheetName")
+						sheetName: oResourceBundle.getText("txtSheetName")
 					}
 				},
 				dataSource: {
@@ -78,11 +79,11 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 					count: oRowBinding.getLength ? oRowBinding.getLength() : null,
 					useBatch: true
 				},
-				fileName: this._oResourceBundle.getText("txtExportFile"),
+				fileName: oResourceBundle.getText("txtExportFile"),
 				worker: oMockServer === undefined ? true : false
 			};
 
-			var oSheet = new Spreadsheet(oSettings);
+			let oSheet = new Spreadsheet(oSettings);
 			oSheet.build().finally(() => {
 				oSheet.destroy();
 			});
