@@ -82,7 +82,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 					useBatch: true
 				},
 				fileName: oResourceBundle.getText("txtExportFile"),
-				worker: oMockServer === undefined ? true : false
+				worker: !oMockServer ? true : false
 			};
 
 			var oSheet = new Spreadsheet(oSettings);
@@ -171,19 +171,17 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 	_createColumnConfig: function (oModel) {
 
-		return [{
-			label: oModel.getProperty("/#zcds_cons_view_soitemsType/so_id/@sap:label"),
-			property: "so_id"
-		}, {
-			label: oModel.getProperty("/#zcds_cons_view_soitemsType/so_item_pos/@sap:label"),
-			property: "so_item_pos"
-		}, {
-			label: oModel.getProperty("/#zcds_cons_view_soitemsType/net_amount/@sap:label"),
-			property: "net_amount"
-		}, {
-			label: oModel.getProperty("/#zcds_cons_view_soitemsType/currency_code/@sap:label"),
-			property: "currency_code"
-		}];
+		var aConfig = this.getView().getModel("excelColumns").getData();
+		var aColumns = [];
+
+		aConfig.forEach(oConfig => {
+			aColumns.push({
+				label: oModel.getProperty(oConfig.label),
+				property: oConfig.property
+			});
+		});
+
+		return aColumns;
 
 	}
 

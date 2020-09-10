@@ -99,6 +99,10 @@
                         "sap-value-list": "none"
                     }
                 }
+            },
+            "excelColumns": {
+                "type": "sap.ui.model.json.JSONModel",
+                "uri": "model/ExcelColumns.json"
             }
         },
         "extends": {
