@@ -174,10 +174,10 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 		var aConfig = this.getView().getModel("excelColumns").getData();
 		var aColumns = [];
 
-		aConfig.forEach(oConfig => {
+		aConfig.forEach(sColumn => {
 			aColumns.push({
-				label: oModel.getProperty(oConfig.label),
-				property: oConfig.property
+				label: oModel.getProperty(`/#zcds_cons_view_soitemsType/${sColumn}/@sap:label`),
+				property: sColumn
 			});
 		});
 

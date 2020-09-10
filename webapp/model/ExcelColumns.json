@@ -1,13 +1,6 @@
-[{
-    "label": "/#zcds_cons_view_soitemsType/so_id/@sap:label",
-    "property": "so_id"
-}, {
-    "label": "/#zcds_cons_view_soitemsType/so_item_pos/@sap:label",
-    "property": "so_item_pos"
-}, {
-    "label": "/#zcds_cons_view_soitemsType/net_amount/@sap:label",
-    "property": "net_amount"
-}, {
-    "label": "/#zcds_cons_view_soitemsType/currency_code/@sap:label",
-    "property": "currency_code"
-}]
+[
+    "so_id",
+    "so_item_pos",
+    "net_amount",
+    "currency_code"
+]
