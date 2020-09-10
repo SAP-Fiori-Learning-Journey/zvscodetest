@@ -2,6 +2,8 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 	onInitSmartFilterBarExtension: function (oEvent) {
 
+		this.byId("onExportToExcelButton").setEnabled(false);
+
 		this._sFilterBarId = oEvent.getSource().getId();
 
 		var oI18n = this.getView().getModel("i18n");
@@ -29,9 +31,14 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 		oBindingParams.parameters = oBindingParams.parameters || {};
 
 		var oSmartTable = this._oSmartTable = oEvent.getSource();
-		var oSmartFilterBar = this.byId(oSmartTable.getSmartFilterId());
+		oSmartTable.attachEventOnce("dataReceived", oData => {
+			let bEnabled = oData.getParameters().getParameter("data").results.length != 0 ? true : false;
+			this.byId("onExportToExcelButton").setEnabled(bEnabled);
+		});
 
 		const SmartFilterBar = sap.ui.require("sap/ui/comp/smartfilterbar/SmartFilterBar");
+		var oSmartFilterBar = this.byId(oSmartTable.getSmartFilterId());
+		
 		if (oSmartFilterBar instanceof SmartFilterBar) {
 
 			let oCustomBoolean = this.byId("customFilter-boolean");
