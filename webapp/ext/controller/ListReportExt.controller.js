@@ -32,7 +32,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 		var oSmartTable = this._oSmartTable = oEvent.getSource();
 		oSmartTable.attachEventOnce("dataReceived", oData => {
-			let bEnabled = oData.getParameters().getParameter("data").results.length != 0 ? true : false;
+			let bEnabled = oData.getParameters().getParameter("data").results.length ? true : false;
 			this.byId("onExportToExcelButton").setEnabled(bEnabled);
 		});
 
