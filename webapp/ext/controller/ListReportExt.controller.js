@@ -158,29 +158,19 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 	_createColumnConfig: function (oModel) {
 
-		var aCols = [];
-
-		aCols.push({
+		return [{
 			label: oModel.getProperty("/#zcds_cons_view_soitemsType/so_id/@sap:label"),
 			property: "so_id"
-		});
-
-		aCols.push({
+		}, {
 			label: oModel.getProperty("/#zcds_cons_view_soitemsType/so_item_pos/@sap:label"),
 			property: "so_item_pos"
-		});
-
-		aCols.push({
+		}, {
 			label: oModel.getProperty("/#zcds_cons_view_soitemsType/net_amount/@sap:label"),
 			property: "net_amount"
-		});
-
-		aCols.push({
+		}, {
 			label: oModel.getProperty("/#zcds_cons_view_soitemsType/currency_code/@sap:label"),
 			property: "currency_code"
-		});
-
-		return aCols;
+		}];
 
 	}
 
