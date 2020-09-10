@@ -31,7 +31,8 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 		var oSmartTable = this._oSmartTable = oEvent.getSource();
 		var oSmartFilterBar = this.byId(oSmartTable.getSmartFilterId());
 
-		if (oSmartFilterBar instanceof sap.ui.comp.smartfilterbar.SmartFilterBar) {
+		const SmartFilterBar = sap.ui.require("sap/ui/comp/smartfilterbar/SmartFilterBar");
+		if (oSmartFilterBar instanceof SmartFilterBar) {
 
 			let oCustomBoolean = this.byId("customFilter-boolean");
 			let sBool = oCustomBoolean.getSelectedKey();
@@ -51,19 +52,20 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 		sap.ui.require([
 			"sap/ui/export/Spreadsheet",
-			"zvscodetest/localService/mockserver"
-		], (Spreadsheet, MockServer) => {
+			"zvscodetest/localService/mockserver",
+			"sap/m/MessageBox"
+		], (Spreadsheet, MockServer, MessageBox) => {
 
-			let oTable = this._oSmartTable.getTable();
-			let oRowBinding = oTable.getBinding("items");
+			var oTable = this._oSmartTable.getTable();
+			var oRowBinding = oTable.getBinding("items");
 
-			let oModel = oRowBinding.getModel();
-			let aCols = this._createColumnConfig(oModel);
+			var oModel = oRowBinding.getModel();
+			var aCols = this._createColumnConfig(oModel);
 
-			let oMockServer = MockServer.getMockServer();
-			let oResourceBundle = this._oResourceBundle;
+			var oMockServer = MockServer.getMockServer();
+			var oResourceBundle = this._oResourceBundle;
 
-			let oSettings = {
+			var oSettings = {
 				workbook: {
 					columns: aCols,
 					hierarchyLevel: 'Level',
@@ -83,10 +85,14 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 				worker: oMockServer === undefined ? true : false
 			};
 
-			let oSheet = new Spreadsheet(oSettings);
-			oSheet.build().finally(() => {
-				oSheet.destroy();
-			});
+			var oSheet = new Spreadsheet(oSettings);
+			oSheet.build()
+				.catch(sMessage => {
+					MessageBox.error(sMessage);
+				})
+				.finally(() => {
+					oSheet.destroy();
+				});
 
 		});
 
@@ -109,6 +115,9 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 	_addCustomFilter: function (sValue, sBool, oBindingParams) {
 
+		const FilterOperator = sap.ui.require("sap/ui/model/FilterOperator");
+		const Filter = sap.ui.require("sap/ui/model/Filter");
+
 		var aFilters = [];
 		var sKeywords = sValue.split(",");
 
@@ -120,29 +129,29 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 			if (sTrim.includes("*")) {
 
 				if (!sTrim.startsWith("*") && sTrim.endsWith("*")) {
-					sOperator = sap.ui.model.FilterOperator.StartsWith;
+					sOperator = FilterOperator.StartsWith;
 				} else if (sTrim.startsWith("*") && !sTrim.endsWith("*")) {
-					sOperator = sap.ui.model.FilterOperator.EndsWith;
+					sOperator = FilterOperator.EndsWith;
 				} else {
-					sOperator = sap.ui.model.FilterOperator.Contains;
+					sOperator = FilterOperator.Contains;
 				}
 
 				sTrim = sTrim.split("*").join("");
 
 			} else {
 
-				sOperator = sap.ui.model.FilterOperator.EQ;
+				sOperator = FilterOperator.EQ;
 
 			}
 
-			aFilters.push(new sap.ui.model.Filter({
+			aFilters.push(new Filter({
 				filters: [
-					new sap.ui.model.Filter({
+					new Filter({
 						path: 'company_name_upper',
 						operator: sOperator,
 						value1: sTrim
 					}),
-					new sap.ui.model.Filter({
+					new Filter({
 						path: 'text_upper',
 						operator: sOperator,
 						value1: sTrim
@@ -153,7 +162,7 @@ sap.ui.controller("zvscodetest.ext.controller.ListReportExt", {
 
 		});
 
-		oBindingParams.filters.push(new sap.ui.model.Filter({
+		oBindingParams.filters.push(new Filter({
 			filters: aFilters,
 			and: sBool === "0" ? true : false
 		}));
